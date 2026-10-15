@@ -20,11 +20,12 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Generate clean repo.json
+      - name: Format repo.json for SideStore Compatibility
         run: |
           python3 - << 'EOF'
           import json
           import urllib.request
+          import re
 
           url = "https://repo.ballermc.com/repo.json"
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -32,20 +33,24 @@ jobs:
           with urllib.request.urlopen(req) as response:
               data = json.loads(response.read().decode())
 
-          # Customize repository metadata while keeping original apps intact
+          # Keep repository metadata intact
           data['name'] = "TubeVault SideStore"
           data['identifier'] = "com.tubevault.sidestore.repo"
-          data['subtitle'] = "Complete mirror of TubeVault apps"
 
-          # Normalize YouTube bundle IDs for SideStore compatibility without dropping items
+          # Clean up bundle IDs so SideStore doesn't throw validation/installation errors
           for app in data.get("apps", []):
-              if "bundleIdentifier" in app and "com.google.ios.youtube" in app["bundleIdentifier"]:
-                  app["bundleIdentifier"] = "com.google.ios.youtube"
+              if "bundleIdentifier" in app:
+                  # Ensure bundle IDs only use standard alphanumeric characters and dots
+                  b_id = app["bundleIdentifier"]
+                  clean_id = re.sub(r'[^a-zA-Z0-9\.]', '.', b_id)
+                  # Remove consecutive dots if any were created
+                  clean_id = re.sub(r'\.+', '.', clean_id).strip('.')
+                  app["bundleIdentifier"] = clean_id
 
           with open('repo.json', 'w') as f:
               json.dump(data, f, ensure_ascii=False, indent=4)
               
-          print(f"Successfully generated repo.json with {len(data.get('apps', []))} apps.")
+          print(f"Successfully formatted repo.json with {len(data.get('apps', []))} apps for SideStore.")
           EOF
 
       - name: Commit and push changes
@@ -53,4 +58,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add repo.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update repo.json with all apps" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Fix bundle IDs for SideStore installation" && git push)
