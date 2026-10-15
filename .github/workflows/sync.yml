@@ -1,0 +1,59 @@
+name: Sync and Transform Repo for SideStore
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Fetch, Align Bundle IDs, and Save JSON
+        run: |
+          python3 - << 'EOF'
+          import json
+          import urllib.request
+
+          url = "https://repo.ballermc.com/repo.json"
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          
+          try:
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+          except Exception as e:
+              print(f"Failed to fetch original repo: {e}")
+              exit(1)
+
+          data['name'] = "TubeVault SideStore"
+          data['identifier'] = "com.tubevault.sidestore.repo"
+          data['subtitle'] = "Fixed TubeVault IPAs for SideStore"
+          data['description'] = "An auto-synced mirror of ballermc's repository optimized for SideStore."
+
+          for app in data.get("apps", []):
+              if "bundleIdentifier" in app and "com.google.ios.youtube" in app["bundleIdentifier"]:
+                  app["bundleIdentifier"] = "com.google.ios.youtube"
+
+          with open('repo.json', 'w') as f:
+              json.dump(data, f, indent=4)
+              
+          print("Successfully aligned bundle identifiers for SideStore validation!")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add repo.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Align app bundleIdentifiers for SideStore compatibility" && git push)
