@@ -1,0 +1,2444 @@
+{
+    "name": "TubeVault SideStore",
+    "identifier": "com.tubevault.sidestore.repo",
+    "subtitle": "Fixed TubeVault IPAs for SideStore",
+    "description": "An auto-synced mirror of ballermc's repository optimized for SideStore.",
+    "iconURL": "https://repo.ballermc.com/TubeVault%20Icon.png",
+    "headerURL": "https://repo.ballermc.com/TubeVault%20Icon.png",
+    "website": "https://t.me/tubevault",
+    "tintColor": "#848ef9",
+    "apps": [
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2) - v21.39.4 (itzzace0) + Bonus Tweaks",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by itzzace0 (Epic0001)",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks include: DontEatMyContent, YouGroupSettings, YouQuality, Return-YouTube-Dislikes, YTABConfig, YTVideoOverlay, and Open in YouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BiOS17%5DYTPlus_6.0~b2_21.39.4_cracked%5Bitzzace%5D.ipa",
+                    "size": 147240446
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2) - v21.39.4 (spy_g) + Bonus Tweaks",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Spy_G. THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by Spy_G.",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks include: DontEatMyContent, YouGroupSettings, YouQuality, Return-YouTube-Dislikes, YTABConfig, YTVideoOverlay, and Open in YouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.39.4_YTPlus.6.0.Beta.2.Cracked%5BSpy_G%5D.ipa",
+                    "size": 399671131
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2) - v21.33.6 (Spy_G) iOS 16+ Support + Bonus Tweaks",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Spy_G. THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by Spy_G.",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks include: DontEatMyContent, YouGroupSettings, YouQuality, Return-YouTube-Dislikes, YTABConfig, YTVideoOverlay, and Open in YouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_ios16%5BSpy_G%5D.ipa",
+                    "size": 139173328
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This is updated by BallerMC to use the latest version of YouTube.",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-03T00:00:00Z",
+                    "localizedDescription": "This uses 21.40.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.40.5_YTPlus_v6.0_Beta_2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 154946205
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2 - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This comes with iOS 16+ Support",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.33.6_YTPlus_v6.0_Beta_2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 152437910
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 2 - iOS 15+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This comes with iOS 15+ Support",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v20.21.6_YTPlus_v6.0_Beta_2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 134316938
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001), Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nThis includes the following tweaks:\nYouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), PleaseDontStopTheMusic, and Gonerino.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.41.5_6.0b2.ipa",
+                    "size": 149026282
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - mrdrvt99 - iOS 16 Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001), Bonus Tweaks added by mrdrvt99 with iOS 16 support.",
+            "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nThis includes the following tweaks:\nYouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSPeed, Return-YouTube-Dislikes, DontEatMyContent, OpenInYouTube (Safari Extension), PleaseDontStopTheMusic, and Gonerino. iOS 16 is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.33.6_6.0b2.ipa",
+                    "size": 145178333
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - IPAVault - Liquid Glass Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault with Liquid Glass Support",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, and OpenInYouTube Safari Extension, with Liquid Glass Support.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-02T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.39.4%20(YTPlus%206.0~b2)%20%5B%40ipavault%5D.ipa",
+                    "size": 157871468
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, and OpenInYouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.41.5%20YTPlus%206.0b2%20%5B%40ipavault%5D.ipa",
+                    "size": 159411487
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - IPAVault - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, OpenInYouTube Safari Extension, and iOS 16+ is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-03T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20YTPlus%206.0b2%20%5B%40ipavault%5D.ipa",
+                    "size": 147251627
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - IPAVault - iOS 15+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, OpenInYouTube Safari Extension, and iOS 16+ is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-10-03T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2020.21.6%20YTPlus%206.0b2%20%5B%40ipavault%5D.ipa",
+                    "size": 136521979
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 1) - v21.39.4",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Updated by BallerMC to 21.39.4",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Updated to  21.39.4.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-09-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.39.4_YTPlus_v6.0_Beta_1_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 155547602
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 1) - v21.38.2",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.38.2",
+                    "date": "2026-09-24T00:00:00Z",
+                    "localizedDescription": "This uses 21.38.2 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_6.0b1_cracked%5Bitzzace%5D.ipa",
+                    "size": 147847203
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 1 - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This comes with iOS 16+ Support",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.33.6_YTPlus_v6.0_Beta_1_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 152261970
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (6.0 BETA 1 - iOS 15+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This comes with iOS 15+ Support",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v20.21.6_YTPlus_v6.0_Beta_1_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 134140998
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (5.2.2) - v21.38.2",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), updated by BallerMC to 21.38.2",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.38.2.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.38.2",
+                    "date": "2026-09-20T00:00:00Z",
+                    "localizedDescription": "This uses 21.38.2 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.38.2_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 145735275
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 21.16.2",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake)",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.16.2",
+                    "date": "2026-07-16T00:00:00Z",
+                    "localizedDescription": "This uses 21.16.2 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/ytp_5.2.2%2B21.16.2_patch_zarzel.ipa",
+                    "size": 132793033
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), updated by BallerMC to 21.24.3",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.24.3.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-16T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.24.3_YTPlus_5.2.2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 138396363
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 20.21.6",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake)",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-07-18T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v20.21.6_YTPlus_5.2.2_cracked%5Btg%40tubevault%5D.ipa",
+                    "size": 124097398
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (6.6.4)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by canpng",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nSidestore is no longer supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%20YTKPlus%206.6.4%20Hacked%2021.39.4%20%40canpng.ipa",
+                    "size": 142219174
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.23.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nSidestore is no longer supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-29T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.23_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 136050241
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.21.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_lowiqentity_5.21.ipa",
+                    "size": 135180455
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.20.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.20_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 135160110
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.19.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.19_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 135158300
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.18.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.18_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 135180624
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.17.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_YTKillerPlus_5.17.ipa",
+                    "size": 136141417
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.16.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-25T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.16_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 136095666
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.14.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.29.3",
+                    "date": "2026-07-25T00:00:00Z",
+                    "localizedDescription": "This uses 21.29.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.14_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 135652451
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.13.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.29.3",
+                    "date": "2026-07-24T00:00:00Z",
+                    "localizedDescription": "This uses 21.29.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.13_Cracked%5Blowiqentity%5D.ipa",
+                    "size": 136671523
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.11.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.29.3",
+                    "date": "2026-07-23T00:00:00Z",
+                    "localizedDescription": "This uses 21.29.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/6dd3syitqf5buhcc2m2i1/YouTube_21.29.3_YTKillerPlus_5.11_Cracked-lowiqentity.ipa?rlkey=8zutdcbx09yby41blcc4dsqqe&st=56yyfr03&dl=1",
+                    "size": 135164167
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.10.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.29.3",
+                    "date": "2026-07-23T00:00:00Z",
+                    "localizedDescription": "This uses 21.29.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/8ks3shpx0d20auyqhtzxs/YTKPlus-5.10-YouTube-21.29.3-Cracked-lowiqentity.ipa?rlkey=zj4cxbqzdvoxjqeml5w2x3vt5&st=enutmobb&dl=1",
+                    "size": 135158253
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.9.9)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.28.3",
+                    "date": "2026-07-22T00:00:00Z",
+                    "localizedDescription": "This uses 21.28.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/ms3frq8m1beqhe2um0jld/YouTube_21.28.3_YTKillerPlus_5.9.9-cracked-lowiqentity.ipa?rlkey=s8ob4jf1uk87vs45uq8y7mnfe&st=7pgpxpjq&dl=1",
+                    "size": 134906028
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked + Bonus Tweaks (5.9.9 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity, Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nThis includes the following tweaks:\nYouQuality, YouTubeDislikesReturn, DontEatMyContent, Gonerino, sideloadkeychainfix, VolumeBoostYT, YouChooseQuality, YouFixPlaybackIssues, YouGetCaption, YouGroupSettings, YouPiP, YouTubeNativeShare, YTABConfig, YTHoldForSpeed, YTUHD, YTVideoOverlay, and OpenYouTubeSafariExtension.\nThis mod was created by mrdrvt99.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-22T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/q8y5igty8ajm2zhtjhcai/YTKillerPlus_21.24.3_5.9.9.ipa?rlkey=3xmzvjtf7q4q2otk6gsaou11n&st=hmkhyfuz&dl=1",
+                    "size": 132347150
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.9.4)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nSidestore is not supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/ry0l3mk7ou9eqz4agwu9z/YouTube_21.24_YTKillerPlus_5.9.4-lowiqentity.ipa?rlkey=ykpdv2pukdjjsy2pmo3o8utw6&st=rwruxj04&dl=1",
+                    "size": 135758951
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked + Bonus Tweaks (5.9.4 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by lowiqentity, Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nThis requires a paid dev cert to work!!\nThis comes with the following tweaks:\nDontEatMyContent, Gonerino, sideloadkeychainfix, VolumeBoostYT, YouChooseQuality, YouFixPlaybackIssues, YouGetCaption, YouGroupSettings, YouPiP, YouQuality, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTHoldForSpeed, YTUHD, YTVideoOverlay, and OpenYouTubeSafariExtension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-18T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/0sot3ijc89psnp9nd7hks/YTKillerPlus_21.24.3_5.9.4.ipa?rlkey=k6hagydeijdaybmx73lmv9i7m&st=dvkv4des&dl=1",
+                    "size": 136088386
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.8.8)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nThis requires a paid dev cert to work!!",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.26.4",
+                    "date": "2026-06-30T00:00:00Z",
+                    "localizedDescription": "This uses 21.26.4 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/pyojo86z4rw4wfqpr1ico/YouTube_v21.26.4_ytkp_v5.8.8_ace.ipa?rlkey=0wjzk1tur1p6gu8reszqsrxgh&st=pk93blck&dl=1",
+                    "size": 134017680
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked + Bonus Tweaks (5.8.8 - itzzace0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0, Bonus Tweaks added by itzzace0",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n**This does not work with sidestore!!**\nThis comes with the following tweaks:\nDontEatMyContent, Gonerino, YouChooseQuality, YouGetCaption, YouGroupSettings, YouPiP, YouQuality, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTHoldForSpeed, YTKPlus, YTUHD, YTVideoErrorAlert, YTVideoOverlay, and OpenYouTubeSafariExtension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.26.4",
+                    "date": "2026-07-05T00:00:00Z",
+                    "localizedDescription": "This uses 21.26.4 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/p4ijl7e0dfy1geva83pso/YouTube_v21.26.4_ytkp_v5.8.8_ace_extra.ipa?rlkey=t453ok8z3l0apjezroh4mgwzf&st=fpf0tnjk&dl=1",
+                    "size": 136302727
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked (5.7.6)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.26.4",
+                    "date": "2026-06-30T00:00:00Z",
+                    "localizedDescription": "This uses 21.26.4 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/eo7sxc1v959h799gsr58y/YouTube_v21.26.4_ytkp_v5.7.6_ace._cracked.ipa?rlkey=esq1fn3xp4yph4ps0pje9nekl&st=1qlbi4gv&dl=1",
+                    "size": 133678329
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKillerPlus Cracked + Bonus Tweaks (5.7.6 - itzzace0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0, Bonus Tweaks added by itzzace0",
+            "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\nThis includes the following tweaks:\nDontEatMyContent, Gonerino, SideloadKeychainFix, VolumeBoostYT, YouChooseQuality, YouGetCaption, YouGroupSettings, YouPiP, YouQuality, YouTubeDislikes Return, YouTubeNativeShare, YTABConfig, YTHoldForSpeed, YTKPlus, YTUHD, YTVideoErrorAlert, YTVideoOverlay, and OpenYouTubeSafariExtension.\nThis mod was created by mrdrvt99.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.26.4",
+                    "date": "2026-06-30T00:00:00Z",
+                    "localizedDescription": "This uses 21.26.4 version of YouTube.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/om3kauhf4yobobvslnnae/YouTube_v21.26.4_ytkp_5.7.6_ace_extra_cracked.ipa?rlkey=6rz3a8fe8rjf5ikhul7vf5gpr&st=sp0tpscd&dl=1",
+                    "size": 136302826
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 20.21.6",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by Mark02-2012",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYYouPiP, YTUHD, YouQuality, RYD, YTABConfig, DontEatMyContent, and Open In YouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_20.21.6_5.2.2.ipa",
+                    "size": 120753339
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - iOSDecrypted) Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by iOSDecrypted",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoErrorAlert, YTVideoOverlay, and Open In YouTube Safari Extension.\n **If you are on iOS 26+, you should use Feather with \"Replace Substrate with Ellekit\" when signing!!**\n This ipa was gotten from https://t.me/iosdecrypted.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-16T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DYT_21.24.3_YP.ipa",
+                    "size": 139375171
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by iOSDecrypted.",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by iOSDecrypted.\nBonus Tweaks include: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoOverlay, and Open In YouTube Safari Extension.\nThis IPA file was made by t.me/iosdecrypted.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-05T00:00:00Z",
+                    "localizedDescription": "This uses 21.40.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DYT_21.40.5_YP.ipa",
+                    "size": 153928639
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 1 - IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, and YTUHD.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.39.4%20(YTPlus%206.0~b1)%20%5B%40ipavault%5D.ipa",
+                    "size": 159737038
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 1 - IPAVault - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nBonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, and iOS 16+ is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20(YTPlus%206.0~b1)%20%5B%40ipavault%5D.ipa",
+                    "size": 150773118
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 1 - IPAVault - iOS 15+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! Bonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD, and iOS 15+ is supported",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2020.21.6%20(YTPlus%206.0~b1)%20%5B%40ipavault%5D.ipa",
+                    "size": 137226656
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - iOSDecrypted)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by iOSDecrypted",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoErrorAlert, YTVideoOverlay, and Open In YouTube Safari Extension.\n **If you are on iOS 26+, you should use Feather with \"Replace Substrate with Ellekit\" when signing!!**\n This ipa was gotten from https://t.me/iosdecrypted.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.38.2",
+                    "date": "2026-09-21T00:00:00Z",
+                    "localizedDescription": "This uses 21.38.2 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DYT_21.38.2_YP.ipa",
+                    "size": 144957675
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 1 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001), Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nThis includes the following tweaks:\nYouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), PleaseDontStopTheMusic, and Gonerino.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-09-29T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.39.4_6.0b1.ipa",
+                    "size": 148152391
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 1 - mrdrvt99 - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by itzzace0 (Epic0001), Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!\nThis includes the following tweaks:\nYouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), PleaseDontStopTheMusic, and Gonerino.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-29T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.33.6_6.0b1.ipa",
+                    "size": 144982240
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - mrdrvt99) Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nDontEatMyContent, Gonerino, sideloadkeychainfix, VolumeBoostYT, YouChooseQuality, YouFixPlaybackIssues, YouGetCaption, YouGroupSettings, YouPiP, YouQuality, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTHoldForSpeed, YTUHD, YTVideoOverlay, and OpenYouTubeSafariExtension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-16T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.24.3_5.2.2.ipa",
+                    "size": 128952154
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by Mark02-2012",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYTLite, YouPiP, YTUHD, YouQuality, RYD, YTABConfig, and DontEatMyContent.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.24.3_5.2.2.ipa",
+                    "size": 128741215
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 21.33.6",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by Mark02-2012",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYTLite, YouPiP, YTUHD, YouQuality, RYD, YTABConfig, and DontEatMyContent.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.33.6_5.2.2.ipa",
+                    "size": 135753407
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Zarzel (shinewake), Bonus Tweaks added by Mark02-2012",
+            "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake).\nThis includes the following tweaks:\nYTLite, YouPiP, YTUHD, YouQuality, RYD, YTABConfig, and DontEatMyContent.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.36.6",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 21.36.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.36.6_5.2.2.ipa",
+                    "size": 137965349
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001)",
+            "localizedDescription": "This is a modded version of YouTube.\nSource Code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_1.1.3_YouTube_21.41.5.ipa",
+                    "size": 137158764
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3 - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001)",
+            "localizedDescription": "This is a modded version of YouTube.\nThis version of YTKACE works on iOS16+ devices!\nSource Code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_1.1.3_YouTube_iOS16_21.33.6.ipa",
+                    "size": 134130360
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3) - Bonus Tweaks (mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001), Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nYouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, YTweaks, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), VolumeBoostYT, Gonerino, and PleaseDontStopTheMusic.\nSource code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_21.41.5_1.1.3.ipa",
+                    "size": 133016194
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3) - Bonus Tweaks (IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001), Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings, and OpenYouTubeInSafari.\nSource code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.41.5%20(YTKACE%201.1.3)%20%5B%40ipavault%5D.ipa",
+                    "size": 143273134
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3) - Bonus Tweaks (IPAVault) iOS 16+",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001), Bonus Tweaks added by IPAVault, iOS 16+ support",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings, and OpenYouTubeInSafari.\nSource code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20(YTKACE%201.1.3)%20%5B%40ipavault%5D.ipa",
+                    "size": 134683259
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.3) - Bonus Tweaks (Moe) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001), Bonus Tweaks added by Moe, does not work with Sidestore/Altstore",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nDontEatMyContent, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, YTVideoOverlay, and Open in YouTube Safari Extension.\nSource code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-YTKACE1.1.3Patched.ipa",
+                    "size": 132135944
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTKACE (1.1.2) - Bonus Tweaks (iOSDecrypted)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Itzzace0 (Epic0001), Bonus Tweaks added by iOSDecrypted",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nYouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoOverlay, Open In YouTube Safari Extension.\nSource code: https://github.com/itzzace/YTKACE",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-05T00:00:00Z",
+                    "localizedDescription": "This uses 21.40.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DYT_21.40.5_KC.ipa",
+                    "size": 137860779
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Updated to version 21.41.5 of YouTube by BallerMC",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by Tonwalter888.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.41.5_v2.0.0%5Btg%40tubevault%5D.ipa",
+                    "size": 130004274
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) - iOS 16+ Support",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Updated to version 21.33.6 of YouTube by BallerMC for iOS 16+ support.",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by Tonwalter888.\niOS 16+ is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.33.6_v2.0.0%5Btg%40tubevault%5D.ipa",
+                    "size": 126158537
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) - iOS 15+ Support",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Updated to version 21.33.6 of YouTube by BallerMC for iOS 15+ support.",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by Tonwalter888.\niOS 15+ is supported.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_20.21.6_v2.0.0%5Btg%40tubevault%5D.ipa",
+                    "size": 111157933
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (Drifty)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by Drifty",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by Tonwalter888.\nBonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, VolumeBoostYT, YouGroupSettings, YouPiP, YouSlider, Return-YouTube-Dislikes, YouTube Native Share, YTABConfig, YTUHD, YTVideoOverlay, YTweaks, and OpenInYouTube Safari Extension. ",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.41.5_v2.0.0%5Bdrifty%5D.ipa",
+                    "size": 131340476
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (iOSDecrypted)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by iOSDecrypted",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by Tonwalter888. This IPA was gotten from https://t.me/iosdecrypted.\nBonus Tweaks include: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoOverlay, and Open In YouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-05T00:00:00Z",
+                    "localizedDescription": "This uses 21.40.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DYT_21.40.5_YM.ipa",
+                    "size": 135481282
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (Jayden)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by Jayden",
+            "localizedDescription": "This is a modded version of YouTube.\n This mod was created by Tonwalter888.\nBonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, VolumeBoostYT, YouGroupSettings, YouPiP, YouSlider, Return-YouTube-Dislikes, YouTube Native Share, YTABConfig, YTUHD, YTVideoOverlay, and YTweaks.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-09-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.39.4_v2.0.0%5Bjayden%5D.ipa",
+                    "size": 130616843
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is a modded version of YouTube.\n This mod was created by Tonwalter888. Bonus Tweaks added by IPAVault.\nBonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, YouQuality, YouSlider, YTUHD, UncappedAVPlayer, and OpeninYouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.41.5%20(YouMod%202.0.0)%20%5B%40ipavault%5D.ipa",
+                    "size": 141601778
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (IPAVault) iOS 16+",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by IPAVault",
+            "localizedDescription": "This is a modded version of YouTube.\n This mod was created by Tonwalter888. Bonus Tweaks added by IPAVault",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-09-28T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20(YouMod%202.0.0)%20%5B%40ipavault%5D.ipa",
+                    "size": 125938270
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is a modded version of YouTube.\n This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99\nBonus Tweaks include: YouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, YTweaks, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), Gonerino, VolumeBoostYT, and PleaseDontStopTheMusic.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 21.40.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.40.5_2.0.0%5Bmrdrvt99%5D.ipa",
+                    "size": 129816622
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (1.3.0) + Bonus Tweaks (Moe) - Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Updated and Bonus Tweaks added by Moe, Downgraded to 21.24.3",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nDontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, and YTVideoOverlay.\n This mod was created by Tonwalter888 and updated by Moe.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-22T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouMod1.3.0Patched.ipa",
+                    "size": 129868022
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod (2.0.0) + Bonus Tweaks (Moe) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by Moe, does not work with Sidestore/Altstore.",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nDontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, and YTVideoOverlay.\n This mod was created by Tonwalter888 and updated by Moe.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-01T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.39.4Moe-YouMod2.0.0Patched.ipa",
+                    "size": 143727897
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "ASJTube (1.4.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by asjrx",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by asjrx.\n You can read more about it here: https://github.com/asjrx/ASJTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.39.4",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 21.39.4 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube-1.4_21.39.4.ipa",
+                    "size": 147923687
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "ASJTube (1.4.0 - iOS 16+ Support)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by asjrx, iOS 16+ is Supported!!",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by asjrx.\niOS 16+ is Supported!!\nYou can read more about it here: https://github.com/asjrx/ASJTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube-1.4_21.33.6.ipa",
+                    "size": 137721675
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "ASJTube + Bonus Tweaks (1.4.0 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by asjrx, Bonus tweaks added by mrdrvt99",
+            "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by asjrx, and Bonus Tweaks added by mrdrvt99.\nBonus Tweaks include: YouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaptions, YTHoldForSpeed, YTNativeShare, YTweaks, VolumeBoostYT, Return-YouTube-Dislikes, DontEatMyContent, Open in YouTube (Safari Extension), PleaseDontStopTheMusic, and Gonerino.\n You can read more about it here: https://github.com/asjrx/ASJTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube_21.41.5_1.4.ipa",
+                    "size": 132055065
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "KiraTuno (3.1.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by NeonKokoro (OmniGlitchy35)",
+            "localizedDescription": "This is a modded version of YouTube.\nThis comes with the following tweaks:\nFLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, YouChooseQuality, YTHoldForSpeed, YouSlider, YouLoop, YouMute, YTABConfig, YTVideoOverlay, YouGroupSettings, YouTubeDislikesReturn, YTUHD, YouPiP, and YouMod.\n This mod was created by NeonKokoro (OmniGlitchy35).\n You can read more about it here: https://github.com/NeonKokoro/KiraTuno",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-08-09T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/KiraTuno.ipa",
+                    "size": 119818777
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouMod + Bonus Tweaks (1.3.0 - mrdrvt99)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Tonwalter888, Bonus Tweaks added by mrdrvt99",
+            "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks:\nDontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouChooseQuality, YouGetCaption, YouGroupSettings, YouLoop, YouMod, YouMute, YouPiP, YouQuality, YouSlider, YouSpeed, YouTubeDislikesReturn, YTABConfig, YTHoldForSpeed, YTSilentVote, YTUHD, YTVideoErrorAlert, YTVideoOverlay, YTweaks, and OpenYouTubeSafariExtension.\n This mod was created by Tonwalter888 bonus tweaks by mrdrvt99.\n You can see the changelog here: https://github.com/mrdrvt99/YouProEXTRA",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-06-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.24.3_1.3.0.ipa",
+                    "size": 119918587
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouPro (1.3.2)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by IPAStar",
+            "localizedDescription": "This is a modded version of YouTube with YouPro added.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-07-27T00:00:00Z",
+                    "localizedDescription": "This uses 21.30.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouPro-fixlogin.ipa",
+                    "size": 144504164
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouPro + Bonus Tweaks (0.3 - Moe) - Downgraded to 21.24.3 - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by IPAStar, Bonus Tweaks added by Moe, Downgraded to 21.24.3",
+            "localizedDescription": "This is a modded version of YouTube.\n This comes with the following tweaks:\nDontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, and YTVideoOverlay.\nThis mod was created by IPAStar and Bonus Tweaks by Moe.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-07-22T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouPro0.3Patched.ipa",
+                    "size": 129707648
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouPro + Bonus Tweaks (0.3 - Moe) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by IPAStar, Bonus Tweaks added by Moe",
+            "localizedDescription": "This is a modded version of YouTube.\n This comes with the following tweaks:\nDontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, and YTVideoOverlay.\nThis mod was created by IPAStar and Bonus Tweaks by Moe.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-YouPro0.3Patched.ipa",
+                    "size": 158226169
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxTube (2.0)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Mark02-2012, updated to version 21.41.5 of YouTube",
+            "localizedDescription": "This is an enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the original YouTube Plus.\nThis includes the following tweaks:\nYouPiP, YTUHD, YouQuality, RYD, YTABConfig, DontEatMyContent,YTweaks, Gonerino, YouSpeed, YTLowContrastMode (my fork with a setting section), VolumeBoostYT, YouGetCaption, YouChooseQuality, YouShare, YouLoop, YouMute, YTLocalQueue, MaxTube Extras and OpenInYouTube Safari Extension. You can see more information about this mod at: https://github.com/Mark02-2012/MaxTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.41.5_6.0b2.ipa",
+                    "size": 149022764
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxTube (2.0) - iOS 16+ Support",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Mark02-2012, Downgraded to version 21.33.6 of YouTube for iOS 16+ support",
+            "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more tweaks than the original YouTube Plus.\nThis includes the following tweaks:\nYouPiP, YTUHD, YouQuality, RYD, YTABConfig, DontEatMyContent,YTweaks, Gonerino, YouSpeed, YTLowContrastMode (my fork with a setting section), VolumeBoostYT, YouGetCaption, YouChooseQuality, YouShare, YouLoop, YouMute, YTLocalQueue, MaxTube Extras and OpenInYouTube Safari Extension. You can see more information about this mod at: https://github.com/Mark02-2012/MaxTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.33.6",
+                    "date": "2026-10-03T00:00:00Z",
+                    "localizedDescription": "This uses 21.33.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.33.6_6.0b2.ipa",
+                    "size": 145175681
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxTube (1.6.2) - Downgraded to 21.24.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Mark02-2012, Downgraded to version 21.24.3 of YouTube",
+            "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more tweaks than the original YouTube Plus.\nThis includes the following tweaks:\nYouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTweaks (only on YTPlusM versions), Gonerino (only on YTPlusM versions), YouSpeed (only on YTPlusM versions), YTLowContrastMode (only on YTPlusM versions), VolumeBoostYT (only on YTPlusM versions), YouGetCaption (only on YTPlusM versions), YTPlaybackFix by Mark02-2012, YouChooseQuality, YouShare, YouLoop, YouMute, and YTLowContrastMode which is configurable. You can see more information about this mod at: https://github.com/Mark02-2012/MaxTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-09-12T00:00:00Z",
+                    "localizedDescription": "This uses 21.24.3 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.24.3_5.2.2.ipa",
+                    "size": 129173086
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxTube (2.0) - Downgraded to 20.21.6",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Mark02-2012, Downgraded to version 20.21.6 of YouTube",
+            "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more tweaks than the original YouTube Plus.\nThis includes the following tweaks:\nYouPiP, YTUHD, YouQuality, RYD, YTABConfig, DontEatMyContent,YTweaks, Gonerino, YouSpeed, YTLowContrastMode (my fork with a setting section), YouGetCaption, YouChooseQuality, YouShare, YouLoop, YouMute, YTLocalQueue, MaxTube Extras and OpenInYouTube Safari Extension. You can see more information about this mod at: https://github.com/Mark02-2012/MaxTube",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "20.21.6",
+                    "date": "2026-10-03T00:00:00Z",
+                    "localizedDescription": "This uses 20.21.6 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_20.21.6_6.0b2.ipa",
+                    "size": 129945316
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "DLTube Cracked (2.16.3) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Moe, does not work with Sidestore/Altstore.",
+            "localizedDescription": "This is a cracked version of DLTube tweak for YouTube. Does not work with Sidestore/Altstore.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-DLTube2.16.3CrackedPatched.ipa",
+                    "size": 158506302
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "LRD Cracked (1.13) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Cracked by Moe, does not work with Sidestore/Altstore.",
+            "localizedDescription": "This is a cracked version of the paid LRD tweak for YouTube. Does not work with Sidestore/Altstore.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-LRD1.13CrackedPatched.ipa",
+                    "size": 162229592
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "SY (2.0) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Added by Moe, does not work with Sidestore/Altstore.",
+            "localizedDescription": "This is contains the SY tweak for YouTube. Does not work with Sidestore/Altstore.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-SY2.0Patched.ipa",
+                    "size": 161633296
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MoeMulti (11) - Patched",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by Moe",
+            "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks:\nYTKillerPlus, DLTube, TubeLRD, YTLite, YTReborn, YouTubeX, YTSy, DontEatMyContent, YouTubeDislikesReturn, and more. This mod was created by Moe.\n**Important: DONT SIGN WITH ESIGN AND hold down with 4 fingers to open multi menu.**",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-Multi11Patched.ipa",
+                    "size": 217949866
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlusYTweaks (5.2.2 - iOS SDK 14)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod by fosterbarnes (LegalizeFlorskin)",
+            "localizedDescription": "This is a modded version of YouTube with the following tweaks:\nYouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIcons, YTweaks, YouGroupSettings, Gonerino, YouMute (NEW), YouLoop (NEW), YouSpeed (NEW), YouGetCaption (NEW), YouFixPlaybackIssues (NEW), and AutoFLEX.\n You can see more information about the mod at: https://github.com/fosterbarnes/YTPlusYTweaks",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "19.20.2",
+                    "date": "2026-08-02T00:00:00Z",
+                    "localizedDescription": "This uses 19.20.2 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_5.2.2%2BTweaks_SDK16.5_v19.20.2.ipa",
+                    "size": 203645977
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTPlusYTweaks (6.0 Beta 2 - iOS SDK 16.5)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+            "subtitle": "Mod and Bonus Tweaks added by Drifty. This uses YTPlus 6.0 Beta 2 Cracked by Itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+            "localizedDescription": "This is a modded version of YouTube with the following tweaks:\nDontEatMyContent, YouGroupSettings, YouPiP, YouQuality, Return-YouTube-Dislikes, YTABConfig, YTUHD, YTVideoOverlay, YTweaks, and OpenInYouTube Safari Extension.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "21.41.5",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 21.41.5 version of YouTube.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_custom_SDK16.5_v21.41.5.ipa",
+                    "size": 149410315
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxMusic (1.2)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostYT and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.41.2.ipa",
+                    "size": 107159481
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "MaxMusic (1.2 - No YouMusicPiP)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, YouMusicPiP removed",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_no_YMP_2.4.1_9.41.2.ipa",
+                    "size": 107149331
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012",
+            "localizedDescription": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate.\nYou can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-14T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.41.2.ipa",
+                    "size": 107055118
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (Patched - IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, Updated to latest version by IPAVault",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate%2B%209.41.2%20%5B%40ipavault%5D.ipa",
+                    "size": 111187370
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (Patched - No YouMusicPiP - IPAVault)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, YouMusicPiP removed, updated to latest version by IPAVault",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate%2B%209.41.2%20No%20PIP%20%5B%40ipavault%5D.ipa",
+                    "size": 111177185
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (Patched - Jacks_Apps)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, Updated to latest version by Jacks_Apps",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, YTVolume, and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-12T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate%2B_9.41_Jacks_Apps.ipa",
+                    "size": 110798105
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (Patched - No YouMusicPiP - Jacks_Apps)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, YouMusicPiP removed, updated to latest version by Jacks_Apps",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YTVolume, and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.41.2",
+                    "date": "2026-10-12T00:00:00Z",
+                    "localizedDescription": "This uses 9.41.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate%2B_9.41_No_PIP_Jacks_Apps.ipa",
+                    "size": 110788136
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (iOS 15+ Support - Patched)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, iOS 15+ support",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and Downloading. This works on iOS 15+ devices. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "8.21.3",
+                    "date": "2026-09-19T00:00:00Z",
+                    "localizedDescription": "This uses 8.21.3 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate%2B%208.21.3%20%5B%40ipavault%5D.ipa",
+                    "size": 95552957
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTMusicUltimate+ (iOS 15+ Support - Patched - No YouMusicPiP)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by Mark02-2012, iOS 15+ support, YouMusicPiP removed",
+            "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downloading. This works on iOS 15+ devices. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "8.21.3",
+                    "date": "2026-09-19T00:00:00Z",
+                    "localizedDescription": "This uses 8.21.3 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate%2B%208.21.3%20No%20PIP%20%5B%40ipavault%5D.ipa",
+                    "size": 95542949
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YouTube Music Ultimate Enchanced",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube",
+            "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+            "subtitle": "Mod by dayanch96, enhanced version by Moe",
+            "localizedDescription": "This is a modded version of YouTube Music with the following tweaks:\nYTMusicUltimate and Downloading. You can see more information about the mod at: https://github.com/dayanch96/YTMusicUltimate",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "9.40.2",
+                    "date": "2026-10-09T00:00:00Z",
+                    "localizedDescription": "This uses 9.40.2 version of YouTube Music.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.40Moe-Ultimate2.4.1Patched.ipa",
+                    "size": 110468420
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v7.0.0)",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.9.1.88",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs",
+            "localizedDescription": "This is a modded version of Spotify.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.88",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.88 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-7.0.0-9.1.88.ipa",
+                    "size": 139507438
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v7.0.0 - Patched)",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.patched.9.1.88",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.88",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.88 version of Spotify. This does not work with sidestore or livecontainer!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-7.0.0-9.1.88_Patched.ipa",
+                    "size": 142296457
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v7.0.0 - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.patched.9.1.90.ipavault",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs, updated to latest version of Spotify by IPAVault",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-07T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify. This does not work with sidestore or livecontainer!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(EeveeSpotify%207.0.0)%20%5B%40ipavault%5D.ipa",
+                    "size": 137469098
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v7.0.0 - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.not.patched.9.1.90.ipavault",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs, updated to latest version of Spotify by IPAVault",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-07T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify. This does not work with sidestore!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(EeveeSpotify%207.0.0)%20No%20Plugins.ipa",
+                    "size": 140240862
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v6.8.8) - Liquid Glass",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.liquidglass.9.1.76",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs",
+            "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.76",
+                    "date": "2026-08-20T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.76 version of Spotify. This enables Liquid Glass effect on the app.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_LG.ipa",
+                    "size": 133646632
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v6.8.8) - Liquid Glass + Patched",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.liquidglass.patched.9.1.76",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs",
+            "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.76",
+                    "date": "2026-08-20T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.76 version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_Patched_LG.ipa",
+                    "size": 136322970
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated (v6.8.8 - Patched) iOSDecrypted",
+            "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.patched.9.1.82.iosdecrypted",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by SideloadLabs, updated to latest version of Spotify by iOSDecrypted",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.82",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.82 version of Spotify. This does not work with sidestore or livecontainer!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DSP_9.1.82_ES.ipa",
+                    "size": 136950776
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "GSpotify (v1.0 - Patched) iOSDecrypted",
+            "bundleIdentifier": "com.spotify.client.ios.gspotify.1.0.patched.9.1.82.iosdecrypted",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by GTweaks, updated to latest version of Spotify by iOSDecrypted",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.82",
+                    "date": "2026-09-07T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.82 version of Spotify. This does not work with sidestore or livecontainer!!",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG%40i_osd%5DSP_9.1.82_GS.ipa",
+                    "size": 134218818
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Spoti.pw (v0.21.1 - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.spoti.pw.0.21.1.patched.9.1.84",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.84",
+                    "date": "2026-09-20T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.84 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20(Spoti.pw)%20%5B%40ipavault%5D.ipa",
+                    "size": 134939587
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Spoti.pw (v0.21.1 - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.spoti.pw.0.21.1.not.patched.9.1.84",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!!",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.84",
+                    "date": "2026-09-20T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.84 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20(Spoti.pw)%20No%20Plugins.ipa",
+                    "size": 134111748
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Spoti.pw + EeveeSpotifyReincarnated (v0.23.0 Beta - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.spoti.pw.eeveespotifyreincarnated.0.23.0.beta.patched.9.1.86",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Spoit.pw and EeveeSpotifyReincarnated.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.86",
+                    "date": "2026-09-29T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.86 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.86%20(Eevee%2BSpoti.pw)%20%5B%40ipavault%5D.ipa",
+                    "size": 137946000
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Spoti.pw + EeveeSpotifyReincarnated (v0.23.0 Beta - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.spoti.pw.eeveespotifyreincarnated.0.23.0.beta.not.patched.9.1.86",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Spoit.pw and EeveeSpotifyReincarnated.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.86",
+                    "date": "2026-09-29T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.86 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.86%20(Eevee%2BSpoti.pw)%20No%20Plugins.ipa",
+                    "size": 135214885
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw + EeveeSpotifyReincarnated (v0.50.0 Cracked - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.eeveespotifyreincarnated.0.50.0.cracked.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G, with EeveeSpotifyReincarnated added.",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Chroma.pw cracked and EeveeSpotifyReincarnated.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Eevee%2BChroma.pw)%20%5B%40ipavault%5D.ipa",
+                    "size": 136124324
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw + EeveeSpotifyReincarnated (v0.50.0 Cracked - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.eeveespotifyreincarnated.0.50.0.beta.not.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G, with EeveeSpotifyReincarnated added.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Chroma.pw cracked and EeveeSpotifyReincarnated.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Eevee%2BChroma.pw)%20No%20Plugins.ipa",
+                    "size": 135328778
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw (v0.50.0 Cracked - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.50.0.cracked.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes Chroma.pw cracked.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Chroma.pw%200.50.0)%20%5B%40ipavault%5D.ipa",
+                    "size": 131600685
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw (v0.50.0 Cracked - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.50.0.beta.not.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes just Chroma.pw cracked",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-04T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Chroma.pw%200.50.0)%20No%20Plugins.ipa",
+                    "size": 130805097
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw (v0.51.0 Beta 1 Cracked) Spy_G",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.51.0.beta.1.not.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes just Chroma.pw cracked",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify_9.1.78_Chroma0.51.0_NO_Eevee.ipa",
+                    "size": 125313788
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated + Chroma.pw (v0.51.0 Beta 1 Cracked) Spy_G",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.51.0.beta.1.not.patched.9.1.78.eeveespotifyreincarnated",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, downgraded to 9.1.78 of Spotify for compatibility, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes Chroma.pw 0.51.0 beta 1 cracked and EeveeSpotifyReincarnated v7.0.0",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify_9.1.78_Chroma0.51.0_Eevee7.0.0.ipa",
+                    "size": 130660854
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Chroma.pw (v0.51.0 Beta 1 Cracked) Spy_G",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.51.0.beta.1.not.patched.9.1.90",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes just Chroma.pw cracked",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-12T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify_9.1.90_Chroma0.51.0_NO_Eevee.ipa",
+                    "size": 129363025
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated + Chroma.pw (v0.51.0 Beta 1 Cracked) Spy_G",
+            "bundleIdentifier": "com.spotify.client.ios.chroma.pw.0.51.0.beta.1.not.patched.9.1.90.eeveespotifyreincarnated",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by skopevoj, cracked by Spy_G.",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes Chroma.pw 0.51.0 beta 1 cracked and EeveeSpotifyReincarnated v7.0.0",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-12T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify_9.1.90_Chroma0.51.0_Eevee7.0.0.ipa",
+                    "size": 134710111
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Vitrine (v1.0.0 Beta 13 - Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.13.patched.9.1.90",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!!\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Vitrine%201.0.0-b13)%20%5B%40ipavault%5D.ipa",
+                    "size": 131327168
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Vitrine (v1.0.0 Beta 13 - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.13.not.patched.9.1.90",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!!\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Vitrine%201.0.0-b13)%20No%20Plugins.ipa",
+                    "size": 130219610
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Vitrine + EeveeSpotifyReincarnated (Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.vitrine.eeveespotifyreincarnated.beta.patched.9.1.88",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by IPAVault",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.88",
+                    "date": "2026-10-08T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.88 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Eevee%2BVitrine)%20%5B%40ipavault%5D.ipa",
+                    "size": 142205605
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Vitrine + EeveeSpotifyReincarnated (Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.vitrine.eeveespotifyreincarnated.not.patched.9.1.88",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by IPAVault",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.88",
+                    "date": "2026-10-08T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.88 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Eevee%2BVitrine)%20No%20Plugins.ipa",
+                    "size": 139431935
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Taurus (v0.50.1- Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.taurus.0.50.1.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff",
+            "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!!\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-09T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Taurus%200.50.1)%20%5B%40ipavault%5D.ipa",
+                    "size": 133874753
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Taurus (v0.50.1 - Not Patched) IPAVault",
+            "bundleIdentifier": "com.spotify.client.ios.taurus.0.50.1.not.patched.9.1.78",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff",
+            "localizedDescription": "This is a modded version of Spotify. This works with sidestore!!\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.78",
+                    "date": "2026-10-09T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.78 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.78%20(Taurus%200.50.1)%20No%20Plugins.ipa",
+                    "size": 132933434
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Taurus (v0.50.1)",
+            "bundleIdentifier": "com.spotify.client.ios.taurus.0.50.1.9.1.90",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff, updated to latest Spotify version by BallerMC",
+            "localizedDescription": "This is a modded version of Spotify.\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nThis is updated to latest Spotify version by BallerMC.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Taurus-0.50.1%5Btg%40tubevault%5D.ipa",
+                    "size": 130532598
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "EeveeSpotifyReincarnated + Taurus (v0.50.1)",
+            "bundleIdentifier": "com.spotify.client.ios.taurus.0.50.1.9.1.90.eeveespotifyreincarnated",
+            "developerName": "Spotify",
+            "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+            "subtitle": "Mod by My-Name-Is-Jeff, updated to latest Spotify version by BallerMC with EeveeSpotifyReincarnated v7.0.0 injected.",
+            "localizedDescription": "This is a modded version of Spotify.\nVitrine is a fork of spoti.pw by Vojt\u011bch \u0160kopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nThis is updated to latest Spotify version by BallerMC with EeveeSpotifyReincarnated v7.0.0 injected.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+            "tintColor": "#1DB954",
+            "versions": [
+                {
+                    "version": "9.1.90",
+                    "date": "2026-10-10T00:00:00Z",
+                    "localizedDescription": "This uses 9.1.90 version of Spotify.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Taurus-0.50.1%2BEeveeSpotifyReincarnated-7.0.0%5Btg%40tubevault%5D.ipa",
+                    "size": 135744741
+                }
+            ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Husk (v2.0)",
+            "bundleIdentifier": "com.husk.app.2.0",
+            "developerName": "Leviidev",
+            "iconURL": "https://repo.ballermc.com/tubevault/Husk-Icon.png",
+            "subtitle": "Mod by Leviidev",
+            "localizedDescription": "Run Android apps and games on your iPhone!\nThis is an open source app that lets you run Android apps and games on iOS using an ARM64 translation layer or full Android emulation via QEMU. Supports APKs, XAPKs, APKMs, controllers, and various game engines. Requires iOS 16.4+ and JIT.",
+            "tintColor": "#848ef9",
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-10-11T00:00:00Z",
+                    "localizedDescription": "This uses 2.0 version of Husk.",
+                    "downloadURL": "https://repo.ballermc.com/tubevault/Husk.ipa",
+                    "size": 110921859
+                }
+            ],
+            "appPermissions": {}
+        }
+    ]
+}
