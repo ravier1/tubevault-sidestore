@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -20,7 +24,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Fetch, Align Bundle IDs, and Save JSON
+      - name: Fetch, Filter Spotify, Align Bundle IDs, and Save JSON
         run: |
           python3 - << 'EOF'
           import json
@@ -36,19 +40,35 @@ jobs:
               print(f"Failed to fetch original repo: {e}")
               exit(1)
 
+          # Update repository header metadata
           data['name'] = "TubeVault SideStore"
           data['identifier'] = "com.tubevault.sidestore.repo"
           data['subtitle'] = "Fixed TubeVault IPAs for SideStore"
-          data['description'] = "An auto-synced mirror of ballermc's repository optimized for SideStore."
+          data['description'] = "An auto-synced mirror of ballermc's repository optimized for SideStore (YouTube & YT Music apps only)."
 
+          # Filter apps and fix bundle IDs
+          filtered_apps = []
           for app in data.get("apps", []):
+              dev_name = app.get("developerName", "").lower()
+              bundle_id = app.get("bundleIdentifier", "").lower()
+              app_name = app.get("name", "").lower()
+              
+              # Skip Spotify apps
+              if "spotify" in dev_name or "spotify" in bundle_id or "spotify" in app_name:
+                  continue
+              
+              # Align YouTube bundle identifiers for SideStore validation
               if "bundleIdentifier" in app and "com.google.ios.youtube" in app["bundleIdentifier"]:
                   app["bundleIdentifier"] = "com.google.ios.youtube"
+                  
+              filtered_apps.append(app)
+
+          data['apps'] = filtered_apps
 
           with open('repo.json', 'w') as f:
               json.dump(data, f, indent=4)
               
-          print("Successfully aligned bundle identifiers for SideStore validation!")
+          print(f"Successfully filtered apps and saved {len(filtered_apps)} items to repo.json!")
           EOF
 
       - name: Commit and push changes
@@ -56,4 +76,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add repo.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Align app bundleIdentifiers for SideStore compatibility" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Filter Spotify apps and align bundleIdentifiers" && git push)
