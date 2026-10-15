@@ -1,4 +1,4 @@
-name: Sync and Transform Repo for SideStore
+name: Sync Repo for SideStore
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Transform and Generate repo.json
+      - name: Generate clean repo.json
         run: |
           python3 - << 'EOF'
           import json
@@ -32,40 +32,25 @@ jobs:
           with urllib.request.urlopen(req) as response:
               data = json.loads(response.read().decode())
 
-          # Metadata customization for your SideStore repo
+          # Customize repository metadata while keeping original apps intact
           data['name'] = "TubeVault SideStore"
           data['identifier'] = "com.tubevault.sidestore.repo"
-          data['subtitle'] = "SideStore-compatible YouTube mods mirror"
-          data['description'] = "An auto-synced mirror of BallerMC's repository filtered for YouTube apps and optimized for SideStore."
+          data['subtitle'] = "Complete mirror of TubeVault apps"
 
-          # Filter apps and normalize YouTube bundle IDs
-          filtered_apps = []
+          # Normalize YouTube bundle IDs for SideStore compatibility without dropping items
           for app in data.get("apps", []):
-              dev_name = app.get("developerName", "").lower()
-              bundle_id = app.get("bundleIdentifier", "").lower()
-              app_name = app.get("name", "").lower()
-              
-              # Exclude Spotify apps
-              if "spotify" in dev_name or "spotify" in bundle_id or "spotify" in app_name:
-                  continue
-              
-              # Normalize YouTube bundle identifier for SideStore validation if needed
               if "bundleIdentifier" in app and "com.google.ios.youtube" in app["bundleIdentifier"]:
                   app["bundleIdentifier"] = "com.google.ios.youtube"
-                  
-              filtered_apps.append(app)
-
-          data['apps'] = filtered_apps
 
           with open('repo.json', 'w') as f:
-              json.dump(data, f, indent=4)
+              json.dump(data, f, ensure_ascii=False, indent=4)
               
-          print(f"Generated repo.json with {len(filtered_apps)} apps.")
+          print(f"Successfully generated repo.json with {len(data.get('apps', []))} apps.")
           EOF
 
-      - name: Commit and push repo.json
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add repo.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync and filter repo.json" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update repo.json with all apps" && git push)
