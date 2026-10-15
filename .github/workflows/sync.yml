@@ -5,15 +5,11 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 permissions:
   contents: write
 
 jobs:
-  sync-repo:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -24,7 +20,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Fetch, Filter Spotify, Align Bundle IDs, and Save JSON
+      - name: Transform and Generate repo.json
         run: |
           python3 - << 'EOF'
           import json
@@ -33,31 +29,27 @@ jobs:
           url = "https://repo.ballermc.com/repo.json"
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
           
-          try:
-              with urllib.request.urlopen(req) as response:
-                  data = json.loads(response.read().decode())
-          except Exception as e:
-              print(f"Failed to fetch original repo: {e}")
-              exit(1)
+          with urllib.request.urlopen(req) as response:
+              data = json.loads(response.read().decode())
 
-          # Update repository header metadata
+          # Metadata customization for your SideStore repo
           data['name'] = "TubeVault SideStore"
           data['identifier'] = "com.tubevault.sidestore.repo"
-          data['subtitle'] = "Fixed TubeVault IPAs for SideStore"
-          data['description'] = "An auto-synced mirror of ballermc's repository optimized for SideStore (YouTube & YT Music apps only)."
+          data['subtitle'] = "SideStore-compatible YouTube mods mirror"
+          data['description'] = "An auto-synced mirror of BallerMC's repository filtered for YouTube apps and optimized for SideStore."
 
-          # Filter apps and fix bundle IDs
+          # Filter apps and normalize YouTube bundle IDs
           filtered_apps = []
           for app in data.get("apps", []):
               dev_name = app.get("developerName", "").lower()
               bundle_id = app.get("bundleIdentifier", "").lower()
               app_name = app.get("name", "").lower()
               
-              # Skip Spotify apps
+              # Exclude Spotify apps
               if "spotify" in dev_name or "spotify" in bundle_id or "spotify" in app_name:
                   continue
               
-              # Align YouTube bundle identifiers for SideStore validation
+              # Normalize YouTube bundle identifier for SideStore validation if needed
               if "bundleIdentifier" in app and "com.google.ios.youtube" in app["bundleIdentifier"]:
                   app["bundleIdentifier"] = "com.google.ios.youtube"
                   
@@ -68,12 +60,12 @@ jobs:
           with open('repo.json', 'w') as f:
               json.dump(data, f, indent=4)
               
-          print(f"Successfully filtered apps and saved {len(filtered_apps)} items to repo.json!")
+          print(f"Generated repo.json with {len(filtered_apps)} apps.")
           EOF
 
-      - name: Commit and push changes
+      - name: Commit and push repo.json
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add repo.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Filter Spotify apps and align bundleIdentifiers" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync and filter repo.json" && git push)
