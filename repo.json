@@ -1,8 +1,8 @@
 {
     "name": "TubeVault SideStore",
     "identifier": "com.tubevault.sidestore.repo",
-    "subtitle": "Fixed TubeVault IPAs for SideStore",
-    "description": "An auto-synced mirror of ballermc's repository optimized for SideStore (YouTube & YT Music apps only).",
+    "subtitle": "SideStore-compatible YouTube mods mirror",
+    "description": "An auto-synced mirror of BallerMC's repository filtered for YouTube apps and optimized for SideStore.",
     "iconURL": "https://repo.ballermc.com/TubeVault%20Icon.png",
     "headerURL": "https://repo.ballermc.com/TubeVault%20Icon.png",
     "website": "https://t.me/tubevault",
