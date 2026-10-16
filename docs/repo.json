@@ -1310,11 +1310,11 @@
       "tintColor": "#848ef9",
       "versions": [
         {
-          "version": "21.40.5",
-          "date": "2026-10-04T00:00:00Z",
-          "localizedDescription": "This uses 21.40.5 version of YouTube.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.40.5_2.0.0%5Bmrdrvt99%5D.ipa",
-          "size": 129816622
+          "version": "21.41.5",
+          "date": "2026-10-14T00:00:00Z",
+          "localizedDescription": "This uses 21.41.5 version of YouTube.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.41.5_2.0.0%5Bmrdrvt99%5D.ipa",
+          "size": 130590630
         }
       ],
       "appPermissions": {}
