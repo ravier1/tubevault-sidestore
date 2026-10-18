@@ -37,20 +37,29 @@ REPO_ICON     = "https://repo.ballermc.com/TubeVault%20Icon.png"
 # and point at https://<yourname>.github.io/tubevault-sidestore/icons/*.svg
 # instead. either works, the CDN one just means less to maintain.
 BASE_APPS = [
+    # YT Music first, so "YouTube Music" never falls into the plain YouTube
+    # bucket. Its real bundle ID is com.google.ios.youtube.music (or .ytmusic
+    # on some builds), so we match that prefix too.
+    {
+        "key": "youtube_music",
+        "display": "YouTube Music (Tweaked Builds)",
+        "id_prefixes": [
+            "com.google.ios.youtube.music",
+            "com.google.ios.youtubemusic",
+            "com.google.ios.ytmusic",
+        ],
+        "name_re": re.compile(r"\b(?:YouTube\s*Music|YTM(?:usic)?)\b", re.IGNORECASE),
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "tint": "#FF0000",
+    },
+    # Plain YouTube next. The negative lookahead stops it from grabbing
+    # "YouTube Music" if that string ever slips past the rule above.
     {
         "key": "youtube",
         "display": "YouTube (Tweaked Builds)",
         "id_prefixes": ["com.google.ios.youtube"],
-        "name_re": re.compile(r"\bYouTube\b", re.IGNORECASE),
-        "logo": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/youtube.svg",
-        "tint": "#FF0000",
-    },
-    {
-        "key": "youtube_music",
-        "display": "YouTube Music (Tweaked Builds)",
-        "id_prefixes": ["com.google.ios.youtubemusic", "com.google.ios.ytmusic"],
-        "name_re": re.compile(r"\b(?:YouTube\s*Music|YTM(?:usic)?)\b", re.IGNORECASE),
-        "logo": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/youtubemusic.svg",
+        "name_re": re.compile(r"\bYouTube\b(?!\s*Music)", re.IGNORECASE),
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
         "tint": "#FF0000",
     },
     {
@@ -58,31 +67,23 @@ BASE_APPS = [
         "display": "Spotify (Tweaked Builds)",
         "id_prefixes": ["com.spotify.client", "com.spotify"],
         "name_re": re.compile(r"\bSpotify\b", re.IGNORECASE),
-        "logo": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/spotify.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
         "tint": "#1DB954",
     },
 ]
 
-# anything that doesn't match the above lands here so it doesn't vanish
-FALLBACK = {
-    "key": "other",
-    "display": "Other Tweaked Apps",
-    "logo": REPO_ICON,
-    "tint": REPO_TINT,
-}
-
 
 def detect_base(app):
-    """Figure out which app a build belongs to. Name check first so
-    'YouTube Music' doesn't get caught by the plain-YouTube rule
-    (their bundle IDs both start with com.google.ios.youtube)."""
+    """Match on bundle ID first (more reliable than names), then fall back
+    to the name regex. Order in BASE_APPS matters: YT Music before YouTube
+    so com.google.ios.youtube.music doesn't get caught by the plain prefix."""
     bid = (app.get("bundleIdentifier") or "").lower()
+    for spec in BASE_APPS:
+        if any(bid.startswith(p) for p in spec["id_prefixes"]):
+            return spec
     name = app.get("name") or ""
     for spec in BASE_APPS:
         if spec["name_re"].search(name):
-            return spec
-    for spec in BASE_APPS:
-        if any(bid.startswith(p) for p in spec["id_prefixes"]):
             return spec
     return FALLBACK
 
@@ -345,7 +346,9 @@ function render() {{
       const date = (v.date || '').slice(0, 10);
       const key = app.key + '|' + v.downloadURL;
       const isExp = expandedDesc.has(key);
-      const installUrl = 'altstore://install?url=' + encodeURIComponent(v.downloadURL);
+      const encoded = encodeURIComponent(v.downloadURL);
+      const sideUrl = 'sidestore://install?url=' + encoded;
+      const altUrl  = 'altstore://install?url=' + encoded;
 
       vEl.innerHTML =
         '<div class="version-head">' +
@@ -356,7 +359,8 @@ function render() {{
           esc(v.localizedDescription) +
         '</div>' +
         '<div class="actions">' +
-          '<a class="btn btn-primary" href="' + esc(installUrl) + '">Install in SideStore / AltStore</a>' +
+          '<a class="btn btn-primary" href="' + esc(sideUrl) + '">Install in SideStore</a>' +
+          '<a class="btn btn-primary" href="' + esc(altUrl) + '">Install in AltStore</a>' +
           '<a class="btn btn-secondary" href="' + esc(v.downloadURL) + '" target="_blank" rel="noopener">Download IPA</a>' +
         '</div>' +
         '<button class="expand-btn" data-key="' + esc(key) + '">' +
