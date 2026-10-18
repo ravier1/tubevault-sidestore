@@ -35,7 +35,7 @@ I'll take a look.
 Free to use, no strings. If it saved you some time, a coffee is appreciated
 but never expected:
 
-- https://ko-fi.com/ravier1
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ravier1)
 
 ## Credits
 

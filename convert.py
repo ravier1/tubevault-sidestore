@@ -270,7 +270,9 @@ main {{ padding:14px 18px 60px; max-width:820px; margin:0 auto; }}
   <h1>{REPO_NAME}</h1>
   <p class="subtitle">{REPO_SUBTITLE}</p>
   <p class="updated">Last updated: {timestamp}</p>
-  <p class="updated"><a href="{KOFI_URL}" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;">☕ Buy me a coffee</a></p>
+  <a href="{"https://ko-fi.com/ravier1"}" target="_blank" rel="noopener" style="display:inline-block;margin-top:10px;">
+    <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" alt="Buy Me a Coffee at ko-fi.com" style="height:44px;border:0;display:block;">
+  </a>
   <input type="search" class="search" id="search" placeholder="Search builds…" autocomplete="off">
   <p class="count" id="count"></p>
 </header>
