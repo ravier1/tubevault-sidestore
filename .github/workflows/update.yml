@@ -1,0 +1,52 @@
+name: Refresh site
+
+# Runs at 06:00 UTC every day, plus any time convert.py or this file
+# changes. If you want to force a run, Actions tab -> Refresh site ->
+# Run workflow.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "convert.py"
+      - ".github/workflows/update.yml"
+
+# Needed so the workflow can commit index.html back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # BallerMC's public repo.json. If this ever 404s, the whole thing
+      # stops, which is better than serving a half-broken page.
+      - name: Download TubeVault repo.json
+        run: curl -fsSL -o repo.json https://repo.ballermc.com/repo.json
+
+      - name: Build the page
+        run: python convert.py
+
+      # git add comes before the diff on purpose. A brand-new index.html
+      # is untracked, so a plain "git diff" wouldn't see it and the job
+      # would silently skip the commit. Learned that the annoying way.
+      - name: Commit if index.html changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "Nothing changed, skipping commit."
+          else
+            git commit -m "auto: refresh index.html [skip ci]"
+            git push
+          fi
