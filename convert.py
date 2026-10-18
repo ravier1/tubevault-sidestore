@@ -28,6 +28,7 @@ REPO_NAME     = "TubeVault for SideStore (Unofficial)"
 REPO_SUBTITLE = "BallerMC's TubeVault builds, reorganised for SideStore."
 REPO_TINT     = "#848ef9"
 REPO_ICON     = "https://repo.ballermc.com/TubeVault%20Icon.png"
+KOFI_URL = "https://ko-fi.com/ravier1"
 
 # each row here = one card on the page. add more if BallerMC ever ships
 # something new that needs its own section.
@@ -269,6 +270,7 @@ main {{ padding:14px 18px 60px; max-width:820px; margin:0 auto; }}
   <h1>{REPO_NAME}</h1>
   <p class="subtitle">{REPO_SUBTITLE}</p>
   <p class="updated">Last updated: {timestamp}</p>
+  <p class="updated"><a href="{KOFI_URL}" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;">☕ Buy me a coffee</a></p>
   <input type="search" class="search" id="search" placeholder="Search builds…" autocomplete="off">
   <p class="count" id="count"></p>
 </header>
