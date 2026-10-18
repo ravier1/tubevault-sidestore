@@ -71,6 +71,13 @@ BASE_APPS = [
         "tint": "#1DB954",
     },
 ]
+# anything that doesn't match the above lands here so it doesn't vanish
+FALLBACK = {
+    "key": "other",
+    "display": "Other Tweaked Apps",
+    "logo": REPO_ICON,
+    "tint": REPO_TINT,
+}
 
 
 def detect_base(app):
